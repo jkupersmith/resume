@@ -60,7 +60,7 @@ Organization: Service assurance
 
 Programming: Java, Perl, PHP, Python
 
-## Network Admin | Cox Communications | Telecommunications | Atlanta, GA | Jun 2003 - Aug 2010
+## Network Admin | Cox Communications | Atlanta, GA | Jun 2003 - Aug 2010
 
 Industry: Telecommunications  
 Organization: Data product services  
