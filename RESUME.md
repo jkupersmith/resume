@@ -39,7 +39,7 @@ Industry: Cybersecurity (Fraud intelligence)
 
 - Developed and maintained public web portal and APIs responsible for delivering core data feed to customers.
 - Developed and maintained ML/data processing pipelines and (dark-)web site scraping applications.
-- Built and supported several clustered services deployed to on-prem SuperMicro systems; 80 node elasticsearch cluster, 2PB ceph storage cluster, 100 node proxmox cluster, 30 node kubernetes cluster, multi-node rabbitmq clusters.
+- Built and supported several clustered services deployed to on-premises SuperMicro systems; 80 node elasticsearch cluster, 2PB ceph storage cluster, 100 node proxmox cluster, 30 node kubernetes cluster, multi-node rabbitmq clusters.
 - Designed, built, and supported several smaller database solutions as well; PostgreSQL, MariaDB, Redis
 - Migrated manually scaled data pipeline workers into kubernetes cluster and created autoscaling based on workload.
 - Design, build, and support custom CentOS linux based routers using iptables and iproute2.
