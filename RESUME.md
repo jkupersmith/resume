@@ -45,14 +45,12 @@ Industry: Cybersecurity (Fraud intelligence)
 - Design, build, and support custom CentOS linux based routers using iptables and iproute2.
 - Support and enhance distributed packet capture and analysis system (Arkime Full Packet Capture, formerly Moloch)
 
-Programming: Python, C, Golang, Java
-
+Programming: Python, C, Golang, Java  
 DevOps: Ansible, Salt stack, Linux, Elasticsearch, Ceph, Kubernetes, ProxMox, KVM, PostgreSQL, MariaDB, Redis, GitLab
 
 ## Software Engineer III | Cox Communications | Atlanta, GA | Aug 2010 - Jul 2017
 
-Industry: Telecommunications
-
+Industry: Telecommunications  
 Organization: Service assurance
 
 - Developed and maintained customer premise equipment management system used by DOCSIS engineers, field technicians, and customer support staff to maintain high-quality and reliable service.
@@ -64,10 +62,8 @@ Programming: Java, Perl, PHP, Python
 
 ## Network Admin | Cox Communications | Telecommunications | Atlanta, GA | Jun 2003 - Aug 2010
 
-Industry: Telecommunications
-
-Organization: Data product services
-
+Industry: Telecommunications  
+Organization: Data product services  
 Team: Network and application health, performance monitoring
 
 - Developed and maintained network monitoring system responsible for delivering real-time alerts to the network operations center and reporting service availability, ensuring core services meet the required SLA and positive customer experience.
