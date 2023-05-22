@@ -20,11 +20,9 @@ Seeking an opportunity to leverage my technical expertise to develop innovative 
 
 # Work Experience
 
-## Sr. Staff Engineer | Balbix | Cybersecurity | San Jose, CA | Nov 2021 - Present
+## Sr. Staff Engineer | Balbix | San Jose, CA | Nov 2021 - Present
 
-Asset inventory and risk management
-
-Programming: Python, Golang, Java, C++
+Industry: Cybersecurity (Asset inventory and risk management)
 
 - Developed and maintained network and operating system sensor applications targetting Linux, macOS, and AIX platforms.
 - Collaborated with engineering teams and product managers to design and implement new features, ensuring on-time and high-quality project delivery.
@@ -33,12 +31,11 @@ Programming: Python, Golang, Java, C++
 - Conducted technical interviews for engineering and internship positions.
 - Worked closely with customer satisfaction team and with customers directly, ensuring sensors are deployed correctly working as designed.
 
-## Software Developer / DevOps | MyNetWatchman | Cybersecurity | Atlanta, GA | Jul 2017 - Nov 2021
+Programming: Python, Golang, Java, C++
 
-Fraud intelligence
+## Software Developer, DevOps | MyNetWatchman | Atlanta, GA | Jul 2017 - Nov 2021
 
-Programming: Python, C, Golang, Java
-DevOps: Ansible, Salt stack, Linux, Elasticsearch, Ceph, Kubernetes, ProxMox, KVM, PostgreSQL, MariaDB, Redis, GitLab
+Industry: Cybersecurity (Fraud intelligence)
 
 - Developed and maintained public web portal and APIs responsible for delivering core data feed to customers.
 - Developed and maintained ML/data processing pipelines and web/darkweb site scraping applications.
@@ -48,37 +45,51 @@ DevOps: Ansible, Salt stack, Linux, Elasticsearch, Ceph, Kubernetes, ProxMox, KV
 - Design, build, and support custom CentOS linux based routers using iptables and iproute2.
 - Support and enhance distributed packet capture and analysis system (Arkime Full Packet Capture, formerly Moloch)
 
-## Software Engineer III | Cox Communications | Telecommunications | Atlanta, GA | Aug 2010 - Jul 2017
+Programming: Python, C, Golang, Java
 
-Service assurance
+DevOps: Ansible, Salt stack, Linux, Elasticsearch, Ceph, Kubernetes, ProxMox, KVM, PostgreSQL, MariaDB, Redis, GitLab
 
-Programming: Java, Perl, PHP, Python
+## Software Engineer III | Cox Communications | Atlanta, GA | Aug 2010 - Jul 2017
+
+Industry: Telecommunications
+
+Organization: Service assurance
 
 - Developed and maintained customer premise equipment management system used by DOCSIS engineers, field technicians, and customer support staff to maintain high-quality and reliable service.
 - Optimized and scaled the distributed SNMP collection process responsible for scanning ~12M cable modems and cable modem termination systems on a bihourly schedule.  Resulted in a 100% improvement in runtime performance and allowed the solution to scale to our largest markets without additional hardware.
 - Conducted code reviews, implemented unit tests, and worked closely with QA and operations teams to ensure application reliability.
 - Worked closely with DOCSIS engineering teams to deliver new features and enhancements in support of new cable modem and set-top box capabilities; i.e. IPv6, DOCSIS 3.1
 
+Programming: Java, Perl, PHP, Python
+
 ## Network Admin | Cox Communications | Telecommunications | Atlanta, GA | Jun 2003 - Aug 2010
 
-Network and application health, performance monitoring
+Industry: Telecommunications
 
-Programming: C, Perl, PHP, Java, Python
+Organization: Data product services
+
+Team: Network and application health, performance monitoring
 
 - Developed and maintained network monitoring system responsible for delivering real-time alerts to the network operations center and reporting service availability, ensuring core services meet the required SLA and positive customer experience.
 - Worked closely with product owners to develop intelligent healthchecks and performance monitoring of their systems and services.  Helping provide engineers with the tools necessary to diagnose and troubleshoot health and performance related issues.
 - Build repository of OSS packages for Sun Solaris running on SPARC systems using NetBSD's pkgsrc package manager.
 - Managed team of offshore developers in 2009-2010, 50% travel.  Helping to deliver new enhancements to web reporting and management portal.
 
-## Systems Administrator | Usenetserver | NNTP service provider | Atlanta, GA | 2000 - May 2003
+Programming: C, Perl, PHP, Java, Python
 
-Programming: Perl, PHP
+## Systems Administrator | Usenetserver | Atlanta, GA | 2000 - May 2003
+
+Industry: Service provider (NNTP)
 
 - Build and administer servers responsible for providing core internet services; such as DNS, HTTP, RADIUS, and NNTP running on Solaris, FreeBSD, and Linux.
 - Develop and maintain customer usage reports working closely with account team to generate monthly invoices.
 - Developed network and server traffic utilization reports helping to ensure adequate service capacity.
 
-## Technical Support | Lynxus | Dial-up access provider | Atlanta, GA | 1998 - 2000
+Programming: Perl, PHP
+
+## Technical Support | Lynxus | Atlanta, GA | 1998 - 2000
+
+Industry: Telecommunications (Dial-up access provider)
 
 - Provided over the phone help to customers related to setup and troubleshooting dialup internet service on Microsoft Windows.
 - Developed small applications to assist members of the technical support staff quickly lookup useful information.
