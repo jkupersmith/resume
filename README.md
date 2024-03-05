@@ -1,24 +1,26 @@
 Jacob Kupersmith
 ================
 
-PHONE | EMAIL | SOCIAL_LINK
+404-989-5409 | jake@jkup.org | https://linkedin.com/in/jkupersmith
+https://github.com/jkupersmith | https://jkup.org
 
-# Summary
+## Summary
 
-Highly skilled software engineer with 20 years of experience in full-stack application development working in cybersecurity, telecommunications, and service provider industries.
-Specializing in designing, building, and maintaining both direct customer facing and backend applications and services.
-Proven track record of delivering high-quality software solutions, collaborating effectively with cross-functional teams, and working under tight deadlines.
-Seeking an opportunity to leverage my technical expertise to develop innovative solutions.
+I am a full-stack engineer with over 20 years professional experience working in telecommunications and cybersecurity industries.
+I am proficient leading products through the entire software development lifecycle, collaborating effectively with cross-functional teams, and working under tight deadlines.
+(Career goals here)
+(Most relevant qualifications)
 
-# Technical Skills
+Technical skills
+======
 
-- Programming Languages: C/C++, Java, JavaScript, Golang, Python, Perl
-- Web Development: Node.js, Express.js, Vue, Angular
-- Databases: MySQL/MariaDB, PostgreSQL, MongoDB, Elasticsearch, Redis
-- DevOps: Ansible, SaltStack, GitLab, Kubernetes
-- Cloud Technologies: AWS, GCP
+- Programming Languages: Python, Go, JavaScript/TypeScript, C/C++, Perl, Java
+- Databases: PostgreSQL, MariaDB/MySQL, Elasticsearch, MongoDB, Redis
+- Web Frameworks: Express.js, Vue.js, Angular
+- DevOps: Kubernetes, GitLab CI, Jenkins, Ansible, SaltStack
 
-# Work Experience
+Professional Experience
+=======================
 
 ## Sr. Staff Engineer | Balbix | San Jose, CA | Nov 2021 - Present
 
