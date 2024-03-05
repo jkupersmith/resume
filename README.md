@@ -1,9 +1,7 @@
 Jacob Kupersmith
 ================
 
-404-989-5409 | jake@jkup.org | https://linkedin.com/in/jkupersmith
-
-https://github.com/jkupersmith | https://jkup.org
+PHONE | EMAIL | SOCIAL_LINK
 
 ## Summary
 
