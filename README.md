@@ -2,13 +2,17 @@ Jacob Kupersmith
 ================
 
 404-989-5409 | jake@jkup.org | https://linkedin.com/in/jkupersmith
+
 https://github.com/jkupersmith | https://jkup.org
 
 ## Summary
 
 I am a full-stack engineer with over 20 years professional experience working in telecommunications and cybersecurity industries.
+
 I am proficient leading products through the entire software development lifecycle, collaborating effectively with cross-functional teams, and working under tight deadlines.
+
 (Career goals here)
+
 (Most relevant qualifications)
 
 Technical skills
