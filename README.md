@@ -1,7 +1,9 @@
 Jacob Kupersmith
 ================
 
-PHONE | EMAIL | SOCIAL_LINK
+PHONE | EMAIL
+| https://www.linkedin.com/in/jkupersmith/
+| https://github.com/jkupersmith
 
 ## Summary
 
