@@ -15,8 +15,7 @@ I am proficient leading products through the entire software development lifecyc
 
 (Most relevant qualifications)
 
-Technical skills
-======
+## Technical skills
 
 - Programming Languages: Python, Go, JavaScript/TypeScript, C/C++, Perl, Java
 - Databases: PostgreSQL, MariaDB/MySQL, Elasticsearch, MongoDB, Redis
@@ -28,7 +27,7 @@ Professional Experience
 
 ## Sr. Staff Engineer | Balbix | San Jose, CA | Nov 2021 - Present
 
-Industry: Cybersecurity (Asset inventory and risk management)
+Industry: Cybersecurity (Asset inventory, vulnerability management, cyber risk quanitification)
 
 - Developed and maintained network and operating system sensor applications targeting Linux, macOS, and AIX platforms.
 - Collaborated with engineering teams and product managers to design and implement new features, ensuring on-time and high-quality project delivery.
@@ -39,7 +38,7 @@ Industry: Cybersecurity (Asset inventory and risk management)
 
 Programming: Python, Golang, Java, C++
 
-## Software Developer, DevOps | MyNetWatchman | Atlanta, GA | Jul 2017 - Nov 2021
+## Software Developer | MyNetWatchman | Atlanta, GA | Jul 2017 - Nov 2021
 
 Industry: Cybersecurity (Fraud intelligence)
 
