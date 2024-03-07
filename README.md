@@ -70,8 +70,8 @@ Professional Experience
 
 ## Technical Support | Lynxus | Atlanta, GA | 1998 - 2000
 
-Lynxus was a dial-up internet service provider that specialized in providing a family-friendly internet experience.
+*Lynxus was a dial-up internet service provider that specialized in providing a family-friendly internet experience.*
 
-- Provided over the phone help to customers related to setup and troubleshooting dialup internet service on Microsoft Windows.
+- Provided over the phone help to customers related to setup and troubleshooting dial-up internet service on Microsoft Windows.
 - Developed small applications to assist members of the technical support staff quickly lookup useful information.
 - Administration of RADIUS server.
