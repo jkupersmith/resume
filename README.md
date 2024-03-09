@@ -25,7 +25,7 @@ Professional Experience
 
 ## Sr Staff Engineer | Balbix | San Jose, CA | 2021.11 - Present
 
-*Balbix helps organization improve their cybersecurity posture through automation and AI.*
+*Balbix helps organizations improve their cybersecurity posture through automation and AI.*
 
 - Developed framework for automating (CIS Benchmarks)[https://www.cisecurity.org/cis-benchmarks] on Linux systems adding key capabilities to help customers comply with new SEC regulations.
 - Developed detection strategies for zero-day vulnerabilities log4j, spring4shell, and Apache struts helping customers identify vulnerable systems and applications.
@@ -42,10 +42,10 @@ Professional Experience
 
 - Developed and maintained ML/data processing pipelines and (dark-)web site scraping applications.
 - Developed and maintained public web portal and APIs responsible for delivering core data feed to customers.
-- Built and supported several clustered services deployed to on-premises SuperMicro systems; 80 node elasticsearch cluster, 2PB ceph storage cluster, 100 node proxmox cluster, 30 node kubernetes cluster, multi-node rabbitmq clusters.
+- Built and supported several clustered services deployed to on-premises Supermicro systems; 80 node elasticsearch cluster, 2PB ceph storage cluster, 100 node proxmox cluster, 30 node kubernetes cluster, multi-node rabbitmq clusters.
 - Designed, built, and supported several smaller database solutions as well; PostgreSQL, MariaDB, Redis
 - Migrated manually scaled data pipeline workers into kubernetes cluster and created auto-scaling based on workload.
-- Design, build, and support custom CentOS linux based routers using iptables and iproute2.
+- Design, build, and support custom CentOS Linux based routers using iptables and iproute2.
 - Support and enhance distributed packet capture and analysis system (Arkime Full Packet Capture, formerly Moloch)
 
 ## Software Engineer III | Cox Communications | Atlanta, GA | 2010.08 - 2017.07
