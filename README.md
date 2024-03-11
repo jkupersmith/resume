@@ -25,7 +25,7 @@ Professional Experience
 
 *Balbix helps organizations improve their cybersecurity posture through automation and AI.*
 
-- Engineered a framework to automate [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks) adherence on Linux systems, incorporating pivotal features to assist clients in meeting emerging SEC regulations.
+- Engineered a framework to automate CIS Benchmarks adherence on Linux systems, incorporating pivotal features to assist clients in meeting emerging SEC regulations.
 - Formulated detection strategies for zero-day vulnerabilities, including log4j, spring4shell, and Apache struts, aiding clients in pinpointing susceptible systems and applications.
 - Developed lightweight agents tailored for deployment on Linux, macOS, and AIX systems, reaching across numerous customer assets and contributing to robust inventory and vulnerability management systems.
 - Collaborated with engineering teams and product managers to conceptualize and implement innovative features, ensuring timely and high-quality project deliveries.
