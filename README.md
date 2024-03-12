@@ -15,7 +15,7 @@ PHONE | EMAIL
 
 - Programming Languages: Python, Go, C/C++, Perl, JavaScript, Java
 - Databases: PostgreSQL, MariaDB/MySQL, Elasticsearch, MongoDB, Redis
-- Web Frameworks: Express.js, Vue.js, Angular
+- Web Frameworks: Flask, Express.js, Vue.js
 - DevOps: Kubernetes, Prometheus, GitLab, Jenkins, Ansible
 
 Professional Experience
