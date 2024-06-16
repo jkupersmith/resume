@@ -21,7 +21,11 @@ PHONE | EMAIL
 Professional Experience
 =======================
 
-## Sr Staff Engineer | Balbix | San Jose, CA | 2021.11 - Present
+## SDE II | AWS | Seattle, WA | 2024.06 - Present
+
+- Working on Route 53 at Amazon Web Services
+
+## Sr Staff Engineer | Balbix | San Jose, CA | 2021.11 - 2024.05
 
 *Balbix helps organizations improve their cybersecurity posture through automation and AI.*
 
